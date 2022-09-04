@@ -6,7 +6,7 @@
 ### Here is a powershell script that you can refer.
 
 ### Prerequisite
-    1. All the domain clients must be turn off windows firewall domain profile setting. (We can do it via group policy for that) below is the how to turn off windows domain firewall through Group Policy. You can import [this](./domain-profile-off-GPO.wfw) policy to GPO as well.
+    1. All the domain clients must be turn off windows firewall domain profile setting. (We can do it via group policy for that) below is the how to turn off windows domain firewall through Group Policy. You can import ![this](./domain-profile-off-GPO.wfw) policy to GPO as well.
     ```
       group policy management > Create a GPO in this domain and Link it here >
     ```
