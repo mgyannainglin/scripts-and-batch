@@ -19,5 +19,7 @@
 
 ### Run the powershell script
     1. change the **csvfile** path with your computers list csv file.
+    2. change the ***username*** and ***password*** variable with your domain administrator username and password.
+
 
 You can import windows firewall domain profile off GPO from [this file](./domain-profile-off-GPO.wfw)
