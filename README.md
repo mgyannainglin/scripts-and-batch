@@ -1,7 +1,7 @@
 ## Renaming the computers' name via Domain Controller
 
 ### I know "you're already know how to rename your computer name"
-###   But how about for ***thousads of computers***? Will you do it manually?
+###   But how about for ***thousnad of computers***? Will you do it manually?
 
 ### Here is a powershell script that you can use and reference.
 
