@@ -1,5 +1,5 @@
-$csvfile = "C:\FILE.CSV" 
-Import-Csv $csvfile | foreach { 
+$csvfile = "C:\computers.csv"
+Import-Csv $csvfile | foreach {
 $oldName = $_.OldName;
 $newName = $_.NewName;
 $username = 'domain\domain-administrator'
