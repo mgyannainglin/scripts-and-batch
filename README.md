@@ -1,9 +1,9 @@
 ## Renaming the computers' name via Domain Controller
 
 ### I know "you're already know how to rename your computer name"
-###   But how about for ***thousnad of computers***? Will you do it manually?
+###   But how about for ***thousand of computers***? Will you do it manually?
 
-### Here is a powershell script that you can use and reference.
+### Here is a powershell script that you can refer.
 
 ### Prerequisite
     1. All the domain clients must be turn off windows firewall domain profile setting. (We can do it via group policy for that) below is the how to turn off windows domain firewall through Group Policy. You can import [this](./domain-profile-off-GPO.wfw) policy to GPO as well.
